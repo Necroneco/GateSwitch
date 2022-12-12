@@ -26,8 +26,8 @@ ota:
 
 wifi:
   networks:
-  - ssid: !secret wifi_ssid_202
-    password: !secret wifi_password_202
+  - ssid: !secret wifi_ssid_302
+    password: !secret wifi_password_302
   - ssid: !secret wifi_ssid_501
     password: !secret wifi_password_501
 
