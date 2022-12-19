@@ -1,5 +1,5 @@
 esphome:
-  name: gate
+  name: Gate
   includes:
     - GateSwitch.h
 
@@ -46,4 +46,4 @@ switch:
     return {gate_switch};
 
   switches:
-    name: "开门"
+    name: "楼道门"
