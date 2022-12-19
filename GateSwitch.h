@@ -35,13 +35,13 @@ public:
 
       digitalWrite(led, LED_ON);
       digitalWrite(phone, HIGH);
-      delay(500);
+      delay(600);
       digitalWrite(led, LED_OFF);
       digitalWrite(lock, HIGH);
-      delay(200);
+      delay(250);
       digitalWrite(led, LED_ON);
       digitalWrite(lock, LOW);
-      delay(500);
+      delay(1250);
       digitalWrite(led, LED_OFF);
       digitalWrite(phone, LOW);
 
