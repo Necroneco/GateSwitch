@@ -1,5 +1,5 @@
 esphome:
-  name: Gate
+  name: gate
   includes:
     - GateSwitch.h
 
